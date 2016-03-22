@@ -45,6 +45,7 @@ puppet-uchiwa git /opt/stack/puppet-modules/uchiwa https://github.com/Yelp/puppe
 puppetlabs-vcsrepo git /opt/stack/puppet-modules/vcsrepo https://github.com/puppetlabs/puppetlabs-vcsrepo.git
 puppet-vlan git /opt/stack/puppet-modules/vlan https://github.com/derekhiggins/puppet-vlan.git
 puppet-vswitch git /opt/stack/puppet-modules/vswitch https://git.openstack.org/openstack/puppet-vswitch.git
+puppet-ovn git /opt/stack/puppet-modules/ovn https://git.openstack.org/openstack/puppet-ovn.git
 puppetlabs-xinetd git /opt/stack/puppet-modules/xinetd https://github.com/puppetlabs/puppetlabs-xinetd.git
 puppet-zookeeper git /opt/stack/puppet-modules/zookeeper https://github.com/miguno/puppet-zookeeper.git
 puppet-openstacklib git /opt/stack/puppet-modules/openstacklib https://git.openstack.org/openstack/puppet-openstacklib.git

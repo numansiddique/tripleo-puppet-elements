@@ -52,6 +52,7 @@ if [ "$DIB_INSTALLTYPE_puppet_modules" = "source" ]; then
     puppetlabs-vcsrepo \
     puppet-vlan \
     puppet-vswitch \
+    puppet-ovn \
     puppetlabs-xinetd \
     puppet-zookeeper \
     puppet-openstacklib \
