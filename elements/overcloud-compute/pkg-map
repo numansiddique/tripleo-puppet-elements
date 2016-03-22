@@ -10,6 +10,7 @@
     "neutron_package": "openstack-neutron",
     "nfs_package": "nfs-utils",
     "nova_compute_package": "openstack-nova-compute",
+    "openvswitch_ovn_package": "openvswitch-ovn",
     "ntp_package": "ntp",
     "pacemaker_remote_package": "pacemaker-remote",
     "rubygem_fluent_package": "rubygem-fluent-plugin-add",
